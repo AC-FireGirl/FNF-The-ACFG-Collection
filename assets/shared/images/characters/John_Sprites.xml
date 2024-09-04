@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="John_Sprites.png">
+<SubTexture name="John Idle0000" x="0" y="0" width="154" height="447" frameX="0" frameY="0" frameWidth="154" frameHeight="447" />
+<SubTexture name="John Right0000" x="154" y="0" width="189" height="440" frameX="0" frameY="0" frameWidth="189" frameHeight="440" />
+<SubTexture name="John Up0000" x="0" y="447" width="174" height="444" frameX="0" frameY="0" frameWidth="174" frameHeight="444" />
+<SubTexture name="John Down0000" x="174" y="447" width="218" height="433" frameX="0" frameY="0" frameWidth="218" frameHeight="433" />
+<SubTexture name="John Left0000" x="0" y="891" width="180" height="444" frameX="0" frameY="0" frameWidth="180" frameHeight="444" />
+</TextureAtlas>
