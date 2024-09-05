@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Plucky Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Plucky Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				19
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Plucky Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Plucky Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Plucky Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/plucky_sprites",
+	"position": [
+		50,
+		100
+	],
+	"healthicon": "plucky",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		47,
+		94
+	],
+	"camera_position": [
+		-20,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

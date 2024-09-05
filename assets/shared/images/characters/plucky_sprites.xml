@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="plucky_sprites.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Plucky Down0000" x="0" y="0" width="243" height="577" frameX="0" frameY="0" frameWidth="262" frameHeight="578"/>
+	<SubTexture name="Plucky Down0001" x="243" y="0" width="252" height="571" frameX="0" frameY="-7" frameWidth="262" frameHeight="578"/>
+	<SubTexture name="Plucky Down0002" x="495" y="0" width="262" height="562" frameX="0" frameY="-15" frameWidth="262" frameHeight="578"/>
+	<SubTexture name="Plucky Down0003" x="495" y="0" width="262" height="562" frameX="0" frameY="-15" frameWidth="262" frameHeight="578"/>
+	<SubTexture name="Plucky Idle0000" x="757" y="0" width="229" height="574" frameX="0" frameY="-10" frameWidth="230" frameHeight="588"/>
+	<SubTexture name="Plucky Idle0001" x="986" y="0" width="229" height="574" frameX="0" frameY="-10" frameWidth="230" frameHeight="588"/>
+	<SubTexture name="Plucky Idle0002" x="1215" y="0" width="230" height="573" frameX="0" frameY="-11" frameWidth="230" frameHeight="588"/>
+	<SubTexture name="Plucky Idle0003" x="1445" y="0" width="229" height="575" frameX="0" frameY="-10" frameWidth="230" frameHeight="588"/>
+	<SubTexture name="Plucky Idle0004" x="1674" y="0" width="223" height="581" frameX="0" frameY="-5" frameWidth="230" frameHeight="588"/>
+	<SubTexture name="Plucky Idle0005" x="0" y="581" width="217" height="587" frameX="0" frameY="-1" frameWidth="230" frameHeight="588"/>
+	<SubTexture name="Plucky Idle0006" x="217" y="581" width="216" height="588" frameX="0" frameY="0" frameWidth="230" frameHeight="588"/>
+	<SubTexture name="Plucky Idle0007" x="433" y="581" width="217" height="588" frameX="0" frameY="0" frameWidth="230" frameHeight="588"/>
+	<SubTexture name="Plucky Idle0008" x="650" y="581" width="217" height="587" frameX="0" frameY="-1" frameWidth="230" frameHeight="588"/>
+	<SubTexture name="Plucky Idle0009" x="650" y="581" width="217" height="587" frameX="0" frameY="-1" frameWidth="230" frameHeight="588"/>
+	<SubTexture name="Plucky Idle0010" x="650" y="581" width="217" height="587" frameX="0" frameY="-1" frameWidth="230" frameHeight="588"/>
+	<SubTexture name="Plucky Idle0011" x="650" y="581" width="217" height="587" frameX="0" frameY="-1" frameWidth="230" frameHeight="588"/>
+	<SubTexture name="Plucky Left0000" x="867" y="581" width="202" height="587" frameX="-5" frameY="0" frameWidth="207" frameHeight="587"/>
+	<SubTexture name="Plucky Left0001" x="1069" y="581" width="195" height="587" frameX="-5" frameY="0" frameWidth="207" frameHeight="587"/>
+	<SubTexture name="Plucky Left0002" x="1264" y="581" width="192" height="586" frameX="0" frameY="-1" frameWidth="207" frameHeight="587"/>
+	<SubTexture name="Plucky Left0003" x="1264" y="581" width="192" height="586" frameX="0" frameY="-1" frameWidth="207" frameHeight="587"/>
+	<SubTexture name="Plucky Right0000" x="1456" y="581" width="257" height="586" frameX="-1" frameY="0" frameWidth="287" frameHeight="586"/>
+	<SubTexture name="Plucky Right0001" x="1713" y="581" width="271" height="585" frameX="-1" frameY="-1" frameWidth="287" frameHeight="586"/>
+	<SubTexture name="Plucky Right0002" x="0" y="1169" width="287" height="582" frameX="0" frameY="-4" frameWidth="287" frameHeight="586"/>
+	<SubTexture name="Plucky Right0003" x="0" y="1169" width="287" height="582" frameX="0" frameY="-4" frameWidth="287" frameHeight="586"/>
+	<SubTexture name="Plucky Up0000" x="287" y="1169" width="212" height="599" frameX="0" frameY="-11" frameWidth="212" frameHeight="611"/>
+	<SubTexture name="Plucky Up0001" x="499" y="1169" width="205" height="602" frameX="0" frameY="-7" frameWidth="212" frameHeight="611"/>
+	<SubTexture name="Plucky Up0002" x="704" y="1169" width="197" height="611" frameX="0" frameY="0" frameWidth="212" frameHeight="611"/>
+	<SubTexture name="Plucky Up0003" x="704" y="1169" width="197" height="611" frameX="0" frameY="0" frameWidth="212" frameHeight="611"/>
+</TextureAtlas>
