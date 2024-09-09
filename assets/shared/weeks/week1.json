@@ -1,5 +1,5 @@
 {
-	"storyName": "John",
+	"storyName": "John & Noah Demo",
 	"difficulties": "hard",
 	"hideFreeplay": false,
 	"weekBackground": "",
@@ -14,6 +14,15 @@
 	"songs": [
 		[
 			"Inhale",
+			"john",
+			[
+				120,
+				120,
+				160
+			]
+		],
+        [
+			"Strength",
 			"john",
 			[
 				120,
