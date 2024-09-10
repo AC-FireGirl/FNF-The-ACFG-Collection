@@ -1,7 +1,8 @@
 function onCreate()
 	-- background shit
-	makeLuaSprite('roadbg', 'RoadBG', -300, 50);
+	makeLuaSprite('roadbg', 'RoadBG', -400, 50);
 	setLuaSpriteScrollFactor('roadbg', 0.9, 0.8);
+    scaleObject('roadbg', 1.2, 1.2);
 
 	addLuaSprite('roadbg', false);
 	
