@@ -551,14 +551,14 @@ class TitleState extends MusicBeatState
 					#if PSYCH_WATERMARKS
 					createCoolText(['Psych Engine by'], 40);
 					#else
-					createCoolText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er']);
+					createCoolText(['AC-FireGirl']);
 					#end
 				case 4:
 					#if PSYCH_WATERMARKS
 					addMoreText('Shadow Mario', 40);
 					addMoreText('Riveren', 40);
 					#else
-					addMoreText('present');
+					addMoreText('presents');
 					#end
 				case 5:
 					deleteCoolText();
@@ -566,7 +566,7 @@ class TitleState extends MusicBeatState
 					#if PSYCH_WATERMARKS
 					createCoolText(['Not associated', 'with'], -40);
 					#else
-					createCoolText(['In association', 'with'], -40);
+					createCoolText(['Not associated', 'with'], -40);
 					#end
 				case 8:
 					addMoreText('newgrounds', -40);
@@ -581,11 +581,11 @@ class TitleState extends MusicBeatState
 				case 13:
 					deleteCoolText();
 				case 14:
-					addMoreText('Friday');
+					addMoreText('FNF:');
 				case 15:
-					addMoreText('Night');
+					addMoreText('The ACFG');
 				case 16:
-					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
+					addMoreText('Collection'); // credTextShit.text += '\nFunkin';
 
 				case 17:
 					skipIntro();
